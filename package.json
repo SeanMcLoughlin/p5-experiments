@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "fxhash": "^0.0.13",
+    "p5": "^2.0.3"
+  }
+}
