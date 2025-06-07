@@ -4,5 +4,5 @@
     "lib": ["es2020", "dom"],
     "checkJs": true
   },
-  "include": ["**.js"]
+  "include": ["*/*.js"]
 }
